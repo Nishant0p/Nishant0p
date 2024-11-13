@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishant0p
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning WebDev
 - 📫 How to reach me Nishantsharma2006720@gmail.com 
 - 😄 Pronouns: he/him
 
