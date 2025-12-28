@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" alt="Pomodoro Timer" width="40" height="40" style="vertical-align: middle;"/> About Me:
-👋 Hi, I’m @Nishant0p<br><img align="right" alt ="coding" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif"  width="300" />👀 I’m interested in coding<br>  🌱 I’m currently learning WebDev<br>📫 How to reach me Nishantsharma2006720@gmail.com<br> 💫Portfolio : https://nishantop.me/ <br>😄 Pronouns: he/him
+👋 Hi, I’m @Nishant0p<br><img align="right" alt ="coding" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif"  width="300" />👀 I’m interested in coding<br>  🌱 I’m currently learning WebDev<br>📫 How to reach me Nishantsharma2006720@gmail.com<br> 💫Portfolio : https://nishantop.com/ <br>😄 Pronouns: he/him
 
 
 ## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif?cid=ecf05e47oq0jsif8iqlwytewfowdp373e58zj3dk2osa7ljk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40" alt="social"> Socials:
